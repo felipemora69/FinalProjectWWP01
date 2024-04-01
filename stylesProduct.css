@@ -277,6 +277,14 @@ body{
     background-color: #136cb4; 
 }
 
+#info{
+    margin-left: 40px;
+    width: calc(68% - 40px);
+    float: left;
+    clear: both;
+    padding-right: 40px;
+}
+
 #info h3 {
     margin-left: 40px;
     font-size: 22px;
