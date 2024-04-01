@@ -213,8 +213,8 @@ body{
 
 #booking{
     position: absolute;
-    top: 720px;
-    right: 20%;
+    top: 520px;
+    right: 2%;
     width: 30%;
     transform: translateY(-50%);
     padding: 20px;
