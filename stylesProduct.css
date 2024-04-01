@@ -213,11 +213,23 @@ body{
 
 #booking{
     position: absolute;
-    top: 80%;
+    top: 520px;
+    right: 2%;
+    width: 30%;
     transform: translateY(-50%);
-    right: 33%;
+    padding: 20px;
 }
 
+#booking h2 {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+#booking input[type="date"], 
+#booking input[type="time"] {
+    width: calc(50% - 5px);
+    margin-right: 10px;
+}
 
 /* start date and end date to display next to each other */
 .date-inputs h2,
@@ -229,7 +241,6 @@ body{
     margin-right: 10px; 
     font-size: 18px; 
 }
-
 
 #total {
     font-size: 20px; 
@@ -252,16 +263,17 @@ body{
     background-color: #136cb4; 
 }
 
-#info{
+#info h3 {
     margin-left: 40px;
-}
-h3 + div {
-    margin-top: 10px; 
+    font-size: 22px;
 }
 
-h3 {
-    font-size: 24px; 
-    font-weight: bold; 
+#info div {
+    margin-bottom: 20px;
+}
+
+#info div:last-child {
+    margin-bottom: 0;
 }
 
 #description{
