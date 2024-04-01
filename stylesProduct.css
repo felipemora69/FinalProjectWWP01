@@ -231,6 +231,20 @@ body{
     margin-right: 10px;
 }
 
+#booking input[type="time"] {
+    width: calc(50% - 15px);
+}
+
+#booking #total {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+#booking #rentNow {
+    margin-top: 20px;
+    width: 100%;
+}
+
 /* start date and end date to display next to each other */
 .date-inputs h2,
 .date-inputs input[type="date"],
@@ -278,7 +292,7 @@ body{
 
 #description{
     text-align: justify;
-    width: 50%;
+    width: 100%;
     margin-bottom: 40px;
 }
 
