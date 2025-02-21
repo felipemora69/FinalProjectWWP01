@@ -9,23 +9,22 @@ Therefore, here are the contributions of each of us:
 Group 4:
 
 Maria Paula Mora:
-
 Solutions
 Product Page
 Profile
 Create and Update Workspaces
-Juan Felipe Mora:
 
+Juan Felipe Mora:
 Home page
 Login and sign up
 Profile
 Navbar
-Yuvraj Sidhu:
 
+Yuvraj Sidhu:
 Footer
 Navbar
 Login and sign up
-Utkarsh:
 
+Utkarsh:
 Contact Us
 Profile
