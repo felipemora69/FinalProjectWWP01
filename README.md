@@ -1,30 +1,26 @@
-This fullstack project is based on a rent spaces website, that the co-worker or owner can find an alternative, different and interesting option to rent spaces for work, study or projects.
-The co-worker can browse and interact with the spaces and different typologies, and the owner can create an account with us to offer and publish their properties for rent with the main specifications
-that the user needs.
+📦 Fullstack Project – Rent Spaces Platform
+This project is a fullstack web application inspired by the concept of a rent spaces website. It allows co-workers or freelancers to discover unique and functional spaces for work, study, or collaboration, while enabling owners to list their properties with key specifications.
 
-We submit in just one branch and in a different repository as well.
+🔍 Key Features
+Co-workers can browse available spaces by category and view detailed listings.
 
-Therefore, here are the contributions of each of us:
+Owners can register, create profiles, and list their properties for rent.
 
+Interactive UI with multiple pages including login, signup, and profile management.
+
+✅ All work was submitted in a single branch and also maintained in a separate repository for collaboration.
+
+👥 Team Contributions
 Group 4:
 
-Maria Paula Mora:
-Solutions
-Product Page
-Profile
-Create and Update Workspaces
+Maria Paula Mora
+→ Solutions Page • Product Page • Profile • Create & Update Workspaces
 
-Juan Felipe Mora:
-Home page
-Login and sign up
-Profile
-Navbar
+Juan Felipe Mora
+→ Home Page • Login & Sign Up • Profile • Navbar
 
-Yuvraj Sidhu:
-Footer
-Navbar
-Login and sign up
+Yuvraj Sidhu
+→ Footer • Navbar • Login & Sign Up
 
-Utkarsh:
-Contact Us
-Profile
+Utkarsh
+→ Contact Us Page • Profile
